@@ -228,3 +228,14 @@
     width: 100%;
     height: 100%;
 }
+a.in {}
+a.in:link  {text-decoration: none;}
+a.in:visited {text-decoration: none;}
+a.in:hover {text-decoration: underline;}
+a.in:active {text-decoration: none;}
+
+a.ex {color:blue;}
+a.ex:link {text-decoration: none; color: blue;}
+a.ex:visited {text-decoration: none; color: blue;}
+a.ex:hover {text-decoration: underline; color: blue;}
+a.ex:active {text-decoration: none; color: blue;}
